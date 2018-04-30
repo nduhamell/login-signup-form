@@ -17,8 +17,9 @@ Features
 
 Preview
 ========
-Live Preview #1 (Login Form): https://nated.xyz/software/login-register-form/login.php
-Live Preview #2 (Registration Form): https://nated.xyz/software/login-register-form/registration.php
+https://nated.xyz/software/login-register-form/login.php
+
+https://nated.xyz/software/login-register-form/registration.php
 
 License
 ==========
