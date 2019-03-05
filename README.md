@@ -13,6 +13,9 @@ Features
 * easy logout via logout.php
 * designed for security
 
+Making a secure Page
+=====================
+To make a secure page add the contents from "auth.php" to the top of any .php page. This will force the user to login before they can see your page.
 
 Install Images
 ===============
