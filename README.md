@@ -28,9 +28,9 @@ Update the db.php File Details as shown Below:
 
 Preview
 ========
-Login Form: https://github.nated.xyz/demo/login-signup-form/login.php
+Login Form: https://files.nateduhamell.com/test/login-signup-form-master/login.php
 
-Registration Form: https://github.nated.xyz/demo/login-signup-form/registration.php
+Registration Form: https://files.nateduhamell.com/test/login-signup-form-master/registration.php
 
 License
 ==========
