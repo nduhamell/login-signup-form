@@ -14,7 +14,6 @@ Features
 * stores passwords in DB as hashes
 * modern and minimalistic design
 * easy logout via logout.php
-* designed for security
 
 Making a secure Page
 =====================
